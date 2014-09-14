@@ -36,7 +36,7 @@ $ go get github.com/nitrous-io/goop
 $ git clone git@github.com:osamingo/golang-gin-example.git
 ```
 
-ディレクトリを移動して、依存関係を解決する。
+ディレクトリを移動して、依存関係を解決する。  
 `goop`コマンドが見つからない場合は、`$GOPATH/bin/goop`とかに存在するので`PATH`を通す。
 
 ```
